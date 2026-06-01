@@ -87,7 +87,7 @@ gcc busca_gulosa.c -o busca_gulosa
 
 ---
 
-## ⚠️ Limitação Crítica: A Busca Gulosa NÃO Resolve Este Labirinto
+##  Limitação Crítica: A Busca Gulosa NÃO Resolve Este Labirinto
 
 > **O algoritmo de busca gulosa implementado não é capaz de encontrar o caminho até o objetivo `G` neste labirinto.**
 
